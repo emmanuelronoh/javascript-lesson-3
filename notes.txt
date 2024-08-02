@@ -1,0 +1,36 @@
+javascript programming language used for webpage interaction.
+variable container where values are stored/function.
+operators arithmetic
+data types string boolean 
+boolean true or false argument
+how to declare variables :
+var,let, const
+let can be redeclared anywhere in the code. but const we can't reassign it later or predeclare.
+var 
+Arrays is a special variable that allows you to hold more than one value at a time. 
+bracket notation to access elements in an array
+array methods:
+destructive methods. and non-destructive methods.
+destructive - modification of pristine arrays or original
+ arrays.
+ destructive methods: 
+ push- adding element at the end of array.
+ pop- removes element at the end of an array.
+ unshift()- adds an element at the beginning.
+ shift() - removes or deletes element at the beginning.
+ splice() - add or remove element in an array.
+
+ Non-destructive methods:
+ does not affect arrays directly. It creates a copy.
+ iteration new sub-topic
+ looping 
+ for loop; for(initializer; condition; count)
+normal functions <function name>() {
+
+}
+function() {
+
+}
+for each(function) {
+
+}
